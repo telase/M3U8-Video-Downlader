@@ -3,3 +3,4 @@
 # Turkish and English Language
 
 ![Demo](https://raw.githubusercontent.com/telase/M3U8-Video-Downlader/main/avc.jpg)
+![Demo](https://raw.githubusercontent.com/telase/M3U8-Video-Downlader/main/avc1.jpg)
